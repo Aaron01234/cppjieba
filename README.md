@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/yanyiwu/cppjieba.png?branch=master)](https://travis-ci.org/yanyiwu/cppjieba) 
 [![Author](https://img.shields.io/badge/author-@yanyiwu-blue.svg?style=flat)](http://yanyiwu.com/) 
 [![Platform](https://img.shields.io/badge/platform-Linux,%20OS%20X,%20Windows-green.svg?style=flat)](https://github.com/yanyiwu/cppjieba)
-[![Performance](https://img.shields.io/badge/performance-excellent-brightgreen.svg?style=flat)](http://yanyiwu.com/work/2025-10-02/jieba-series-performance-test.html) 
+[![Performance](https://img.shields.io/badge/performance-excellent-brightgreen.svg?style=flat)](http://yanyiwu.com/work/2025-10-03/jieba-series-performance-test.html) 
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg?style=flat)](http://yanyiwu.mit-license.org)
 
 [![logo](http://7viirv.com1.z0.glb.clouddn.com/CppJiebaLogo-v1.png)](https://github.com/yanyiwu/cppjieba)
@@ -271,7 +271,7 @@ Query方法先使用Mix方法切词，对于切出来的较长的词再使用Ful
 [jieba_rb]:https://github.com/altkatz/jieba_rb
 [iosjieba]:https://github.com/yanyiwu/iosjieba
 [SqlJieba]:https://github.com/yanyiwu/sqljieba
-[Jieba中文分词系列性能评测]:http://yanyiwu.com/work/2025-10-02/jieba-series-performance-test.html
+[Jieba中文分词系列性能评测]:http://yanyiwu.com/work/2025-10-03/jieba-series-performance-test.html
 [pg_jieba]:https://github.com/jaiminpan/pg_jieba
 [gitbook-plugin-search-pro]:https://plugins.gitbook.com/plugin/search-pro
 
